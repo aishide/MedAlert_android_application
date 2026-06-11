@@ -2,52 +2,44 @@
 
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="MedAlert Banner"/>
+<img src="assets/banner.png" alt="MedAlert Banner" width="100%">
 
-<br>
+<br><br>
 
-![Android](https://img.shields.io/badge/Android-App-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge\&logo=openjdk)
-![SQLite](https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge\&logo=sqlite)
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Java](https://img.shields.io/badge/Language-Java-F89820?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-### 🩺 Smart Emergency Detection • 📍 Live Tracking • 🚑 Faster Response
+### 🩺 Smart Emergency Detection • 📍 Real-Time Tracking • 🚑 Faster Emergency Response
 
-<p>
-An intelligent emergency response application that transforms your smartphone into a proactive medical safety system.
-</p>
+**An intelligent Android application that transforms smartphones into proactive emergency response systems.**
 
 </div>
 
 ---
 
-# 🌟 Why MedAlert?
+## 🌟 Overview
 
-Traditional SOS applications only send a message.
+MedAlert is an Android-based emergency response application designed to provide intelligent assistance during critical situations.
 
-**MedAlert sends intelligence.**
+Unlike traditional SOS applications that send simple alert messages, MedAlert delivers a structured emergency report containing:
 
-Instead of simply notifying contacts, MedAlert shares:
+* 📍 Real-Time GPS Location
+* 🩺 Medical Information
+* 🚨 Emergency Severity Level
+* ☎️ Emergency Contact Details
+* 📋 Health Profile Data
 
-✅ Medical Profile
-
-✅ Emergency Severity
-
-✅ Real-Time GPS Location
-
-✅ Health Information
-
-✅ Emergency History
-
-This allows responders to make faster and more informed decisions during critical situations.
+This allows responders to understand the situation immediately and react more effectively.
 
 ---
 
-# 🎥 Project Preview
+## 🎥 Application Demo
 
 <div align="center">
 
-<img src="assets/demo.gif" width="90%" alt="MedAlert Demo"/>
+<img src="assets/demo.gif" width="90%" alt="Application Demo">
 
 </div>
 
@@ -57,209 +49,168 @@ This allows responders to make faster and more informed decisions during critica
 
 <table>
 <tr>
-
 <td width="33%" align="center">
 
-## 🚨
+## 🚨 Smart SOS
 
-### Smart SOS
-
-Manual trigger with safety countdown and instant emergency activation.
+Manual emergency triggering with safety countdown and instant dispatch.
 
 </td>
 
 <td width="33%" align="center">
 
-## 🎤
+## 🎤 Voice SOS
 
-### Voice Activation
-
-Hands-free SOS triggering using speech recognition.
+Activate emergency alerts using voice commands.
 
 </td>
 
 <td width="33%" align="center">
 
-## 📳
+## 📳 Shake Detection
 
-### Shake Detection
-
-Emergency alert activation through motion detection.
+Trigger SOS automatically through device motion.
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="33%" align="center">
 
-## 📍
+## 📍 GPS Tracking
 
-### Live GPS Tracking
-
-Share accurate location with emergency contacts instantly.
+Share accurate live location with emergency contacts.
 
 </td>
 
 <td width="33%" align="center">
 
-## 🧠
+## 🧠 Risk Analysis
 
-### Risk Classification
-
-Automatically classify emergencies into Normal, High Risk, or Critical.
+Classify emergencies into Normal, High Risk, or Critical.
 
 </td>
 
 <td width="33%" align="center">
 
-## 🏥
+## 🩺 Medical Profile
 
-### Medical Records
-
-Store blood group, allergies, medical history, and conditions.
+Store blood group, allergies, and medical conditions.
 
 </td>
-
 </tr>
-
 </table>
 
 ---
 
-# 🔥 Feature Showcase
+# 🔥 Feature Highlights
 
-<table>
-<tr>
-<td width="50%">
+### 🚨 Multi-Channel Emergency Activation
 
-### 🚨 Multi-Channel Emergency Triggering
+* Manual SOS Trigger
+* Voice Command Activation
+* Shake Detection Trigger
+* One-Tap Emergency Dispatch
 
-* Manual SOS
-* Voice Commands
-* Shake Detection
-* One-Tap Activation
-
-</td>
-
-<td width="50%">
-
-### 🩺 Medical Intelligence
-
-* Blood Group
-* Allergies
-* Medical Conditions
-* Emergency Severity Report
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📍 Location Services
+### 📍 Real-Time Location Services
 
 * GPS Tracking
 * Live Coordinates
-* Accurate Position Sharing
+* Location Sharing
+* Emergency Route Assistance
 
-</td>
+### 🩺 Medical Information System
 
-<td width="50%">
+* Blood Group Storage
+* Allergy Information
+* Existing Medical Conditions
+* Emergency Health Reports
 
-### 🔋 Battery Optimized
+### 🔋 Low Battery Emergency Mode
 
-* Low Battery Emergency Mode
-* Essential Services Preservation
-* Priority Alert Dispatch
+* Essential Service Preservation
+* Battery-Aware Emergency Alerts
+* Emergency Communication Priority
 
-</td>
-</tr>
-</table>
+### 📜 Alert History Tracking
 
----
-
-# 🧠 What Makes It Different?
-
-<div align="center">
-
-| Traditional SOS Apps   | 🚨 MedAlert                |
-| ---------------------- | -------------------------- |
-| Basic Alert Message    | Structured Medical Report  |
-| Manual Activation Only | Manual + Voice + Shake     |
-| No Severity Analysis   | Smart Classification       |
-| No Medical Context     | Complete Medical Profile   |
-| Limited Information    | Intelligent Emergency Data |
-
-</div>
+* Previous Emergency Logs
+* Alert Timeline
+* Trigger Source Records
 
 ---
 
-# 🏗️ Architecture
+# 🧠 Why MedAlert?
+
+| Traditional SOS Apps  | 🚨 MedAlert                |
+| --------------------- | -------------------------- |
+| Basic Text Message    | Structured Medical Report  |
+| Manual Trigger Only   | Manual + Voice + Shake     |
+| No Health Information | Complete Medical Profile   |
+| No Severity Detection | Intelligent Classification |
+| Limited Context       | Actionable Emergency Data  |
+
+---
+
+# 🏗️ System Workflow
 
 ```text
- ┌──────────────────┐
- │ Emergency Trigger│
- └─────────┬────────┘
-           │
-           ▼
- ┌──────────────────┐
- │ Condition Check  │
- └─────────┬────────┘
-           │
-           ▼
- ┌──────────────────┐
- │ Risk Analysis    │
- └─────────┬────────┘
-           │
-           ▼
- ┌──────────────────┐
- │ Medical Report   │
- └─────────┬────────┘
-           │
-           ▼
- ┌──────────────────┐
- │ GPS Retrieval    │
- └─────────┬────────┘
-           │
-           ▼
- ┌──────────────────┐
- │ SOS Dispatch     │
- └──────────────────┘
+Emergency Trigger
+      │
+      ▼
+Condition Analysis
+      │
+      ▼
+Risk Assessment
+      │
+      ▼
+Medical Report Generation
+      │
+      ▼
+GPS Location Retrieval
+      │
+      ▼
+SOS Dispatch
+      │
+      ▼
+Emergency Contact Notification
 ```
 
 ---
 
-# 📱 Application Screens
+# ⚙️ Technology Stack
 
-<div align="center">
-
-| Landing Screen                          | SOS Screen                             |
-| --------------------------------------- | -------------------------------------- |
-| <img src="assets/home.png" width="250"> | <img src="assets/sos.png" width="250"> |
-
-| Medical Profile                            | Alert History                              |
-| ------------------------------------------ | ------------------------------------------ |
-| <img src="assets/profile.png" width="250"> | <img src="assets/history.png" width="250"> |
-
-</div>
+| Category          | Technology             |
+| ----------------- | ---------------------- |
+| Language          | Java                   |
+| User Interface    | XML                    |
+| Database          | SQLite                 |
+| IDE               | Android Studio         |
+| GPS Services      | Location Manager API   |
+| Messaging         | SMS Manager API        |
+| Voice Recognition | Speech Recognition API |
 
 ---
 
-# ⚙️ Tech Stack
+# 📱 Screenshots
 
 <div align="center">
 
-| Layer           | Technology             |
-| --------------- | ---------------------- |
-| Language        | Java                   |
-| UI              | XML                    |
-| Database        | SQLite                 |
-| IDE             | Android Studio         |
-| Location        | GPS Manager            |
-| Voice Detection | Speech Recognition API |
-| Messaging       | SMS Manager API        |
+### 🏠 Landing Screen
+
+<img src="assets/home.png" width="250">
+
+### 🚨 SOS Dashboard
+
+<img src="assets/sos.png" width="250">
+
+### 🩺 Medical Profile
+
+<img src="assets/profile.png" width="250">
+
+### 📜 Alert History
+
+<img src="assets/history.png" width="250">
 
 </div>
 
@@ -268,81 +219,115 @@ Store blood group, allergies, medical history, and conditions.
 # 📂 Project Structure
 
 ```text
-MedAlert
+MedAlert/
 │
-├── app
-│   ├── java
-│   ├── layouts
-│   ├── drawable
-│   ├── values
+├── app/
+│   ├── java/
+│   ├── res/
+│   │   ├── layout/
+│   │   ├── drawable/
+│   │   ├── values/
 │
 ├── AndroidManifest.xml
 ├── build.gradle
-└── README.md
+├── README.md
+│
+└── assets/
+    ├── banner.png
+    ├── demo.gif
+    ├── home.png
+    ├── sos.png
+    ├── profile.png
+    └── history.png
 ```
+
+---
+
+# 🚀 Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/your-username/MedAlert.git
+```
+
+### Open in Android Studio
+
+```bash
+File → Open → Select Project Folder
+```
+
+### Run Application
+
+```bash
+Connect Device or Emulator
+Click ▶ Run
+```
+
+---
+
+# 📦 APK Installation
+
+Install directly using:
+
+```text
+MedAlert.apk
+```
+
+Enable installation from unknown sources if required.
 
 ---
 
 # 🎯 Target Users
 
-<table>
-<tr>
-
-<td align="center">
-👵<br>
-Elderly Users
-</td>
-
-<td align="center">
-🩺<br>
-Patients
-</td>
-
-<td align="center">
-👩<br>
-Women Safety
-</td>
-
-<td align="center">
-🎓<br>
-Students
-</td>
-
-<td align="center">
-✈️<br>
-Travelers
-</td>
-
-</tr>
-</table>
+| User Group             | Use Case             |
+| ---------------------- | -------------------- |
+| 👵 Elderly Individuals | Health Monitoring    |
+| 🩺 Patients            | Medical Emergencies  |
+| 👩 Women               | Personal Safety      |
+| 🎓 Students            | Living Alone         |
+| ✈️ Travelers           | Emergency Assistance |
+| 🚶 Daily Commuters     | Quick SOS Support    |
 
 ---
 
-# 🚀 Future Roadmap
+# 🚀 Future Enhancements
 
 ### 🤖 AI Emergency Prediction
 
-Predict health risks before emergencies occur.
+Predict health risks before emergencies occur using behavioral patterns and sensor data.
 
 ### ⌚ Wearable Integration
 
-Connect with:
-
 * Smart Watches
 * Fitness Bands
-* Health Monitoring Devices
+* Health Sensors
 
-### 🚑 Hospital Integration
+### 🚑 Hospital Connectivity
 
-* Ambulance Dispatch
-* Emergency Department Alerts
-* Hospital Connectivity
+* Direct Ambulance Requests
+* Emergency Room Notifications
+* Hospital Availability Tracking
 
-### ☁️ Cloud Ecosystem
+### ☁️ Cloud Synchronization
 
 * Medical Record Backup
-* Family Tracking Dashboard
-* Cross Device Synchronization
+* Cross Device Access
+* Family Monitoring Dashboard
+
+### 🌐 IoT Healthcare Ecosystem
+
+Connect medical devices for continuous monitoring and emergency detection.
+
+---
+
+# 📚 References
+
+* Android Developer Documentation
+* Google Location Services
+* SMS Manager API
+* Speech Recognition API
+* WHO Emergency Response Guidelines
 
 ---
 
@@ -352,18 +337,14 @@ Connect with:
 
 ## Aishi De
 
-B.Tech Computer Science Engineering (Honours in AI & ML)
+**B.Tech Computer Science Engineering (Honours in AI & ML)**
 
-Building impactful software solutions that combine intelligence, automation, and real-world problem solving.
+Passionate about building intelligent systems that solve real-world challenges through technology, automation, and innovation.
 
 <br>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="YOUR_GITHUB_LINK">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+<a href="https://github.com/aishide">
+<img src="https://img.shields.io/badge/GitHub-aishide-black?style=for-the-badge&logo=github">
 </a>
 
 </div>
@@ -374,12 +355,12 @@ Building impactful software solutions that combine intelligence, automation, and
 
 # ⭐ Every Second Matters
 
-### MedAlert is not just an SOS application.
+### MedAlert is more than an SOS application.
 
-### It is an intelligent emergency response companion.
+### It is an intelligent emergency response companion designed to save valuable time during critical situations.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF4D4D&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF4D4D&section=footer">
 
 </div>
